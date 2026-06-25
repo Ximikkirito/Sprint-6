@@ -129,8 +129,3 @@ class OrderPageLocators:
         By.XPATH,
         "//*[contains(text(),'Заказ оформлен')]"
     )
-
-
-class DzenPageLocators:
-
-    DZEN_URL = "dzen.ru"
